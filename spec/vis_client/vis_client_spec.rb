@@ -1,5 +1,4 @@
 require "spec_helper"
-require "ruby-debug"
 
 module VisClient
   describe VisClient do
